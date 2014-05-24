@@ -58,9 +58,9 @@
     <color name="hint_foreground_light">#808080</color>
     <color name="highlighted_text_dark">#9983CC39</color>
     <color name="highlighted_text_light">#9983CC39</color>
-    <color name="link_text_dark">#5c5cff</color>
-    <color name="link_text_light">#0000ee</color>
-    <color name="suggestion_highlight_text">#177bbd</color>
+    <color name="link_text_dark">#6E6E6E</color>
+    <color name="link_text_light">#1B1B1B</color>
+    <color name="suggestion_highlight_text">#646464</color>
 
     <drawable name="stat_notify_sync_noanim">@drawable/stat_notify_sync_anim0</drawable>
     <drawable name="stat_sys_download_done">@drawable/stat_sys_download_done_static</drawable>
@@ -88,8 +88,8 @@
     <color name="darker_gray">#aaa</color>
 
     <!-- For security permissions -->
-    <color name="perms_dangerous_grp_color">#33b5e5</color>
-    <color name="perms_dangerous_perm_color">#33b5e5</color>
+    <color name="perms_dangerous_grp_color">#939393</color>
+    <color name="perms_dangerous_perm_color">#939393</color>
     <color name="shadow">#cc222222</color>
     <color name="perms_costs_money">#ffffbb33</color>
     
